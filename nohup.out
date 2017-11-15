@@ -1,0 +1,4 @@
+[2017-11-01 11:29:11 #7894.0]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=0.
+[2017-11-01 15:00:10 #7894.0]	NOTICE	Server is shutdown now.
+[2017-11-01 15:00:10 #7894.0]	ERROR	swFactoryProcess_shutdown(:57): kill(7895) failed. Error: No such process[3].
+[2017-11-01 15:00:10 #7894.0]	ERROR	swFactoryProcess_shutdown(:62): waitpid(7895) failed. Error: No child processes[10].
