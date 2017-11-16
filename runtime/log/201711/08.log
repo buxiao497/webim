@@ -1,0 +1,1779 @@
+---------------------------------------------------------------
+[ 2017-11-08T09:47:25+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.035000s][吞吐率：28.57req/s] [内存消耗：2,634.54kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T09:47:26+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510105645848
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510105645848 [运行时间：0.589000s][吞吐率：1.70req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510105645848',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.118000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.127000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.058000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.064000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.055000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.071000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.058000s ]
+---------------------------------------------------------------
+[ 2017-11-08T11:16:06+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：2,634.20kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T11:16:10+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.029000s][吞吐率：34.48req/s] [内存消耗：2,634.94kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T11:16:10+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510110970080
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510110970080 [运行时间：0.772000s][吞吐率：1.30req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510110970080',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.153000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.109000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.083000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.093000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.071000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.081000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.154000s ]
+---------------------------------------------------------------
+[ 2017-11-08T11:16:19+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.014000s][吞吐率：71.43req/s] [内存消耗：1,401.61kb] [文件加载：37]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T11:16:19+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/account/login
+[ info ] kefu.test.com/chat/account/login [运行时间：0.021000s][吞吐率：47.62req/s] [内存消耗：2,487.66kb] [文件加载：43]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'account',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Account->login[ F:\code\thinkSwoole\application\chat\controller\Account.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T11:16:28+08:00 ] 127.0.0.1 127.0.0.1 POST /chat/account/checklogin
+[ info ] kefu.test.com/chat/account/checklogin [运行时间：0.279000s][吞吐率：3.58req/s] [内存消耗：2,656.35kb] [文件加载：44]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'account',
+    2 => 'checklogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://kefu.test.com/chat/account/login',
+  'content-length' => '36',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'account' => '18718282714',
+  'password' => 'y123456',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Account->checklogin[ F:\code\thinkSwoole\application\chat\controller\Account.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.101000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.072000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `account` = 18718282714  AND `password` = 'y123456' LIMIT 1 [ RunTime:0.071000s ]
+---------------------------------------------------------------
+[ 2017-11-08T11:16:29+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.030000s][吞吐率：33.33req/s] [内存消耗：2,633.84kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://kefu.test.com/chat/account/login',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T11:16:29+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=2&_=1510110989060
+[ info ] kefu.test.com/api/friends/lists?uid=2&_=1510110989060 [运行时间：0.552000s][吞吐率：1.81req/s] [内存消耗：2,738.41kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '2',
+  '_' => '1510110989060',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.106000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.094000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 2 LIMIT 1 [ RunTime:0.071000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.063000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 2 [ RunTime:0.072000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.062000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '2' [ RunTime:0.056000s ]
+---------------------------------------------------------------
+[ 2017-11-08T11:16:31+08:00 ] 127.0.0.1 127.0.0.1 GET /static/js/jquery.min.map
+[ info ] kefu.test.com/static/js/jquery.min.map [运行时间：0.014000s][吞吐率：71.43req/s] [内存消耗：1,130.31kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'jquery.min.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:01:09+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.035000s][吞吐率：28.57req/s] [内存消耗：2,562.53kb] [文件加载：43]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:01:15+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.041000s][吞吐率：24.39req/s] [内存消耗：2,562.92kb] [文件加载：43]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:01:25+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.034000s][吞吐率：29.41req/s] [内存消耗：2,567.55kb] [文件加载：44]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:01:58+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.037000s][吞吐率：27.03req/s] [内存消耗：2,813.52kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:01:58+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510124518061
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510124518061 [运行时间：0.706000s][吞吐率：1.42req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510124518061',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.098000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.088000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.079000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.085000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.157000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.086000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.080000s ]
+---------------------------------------------------------------
+[ 2017-11-08T15:02:05+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：2,683.81kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '105293',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://kefu.test.com',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryivwut2kwDi7VazmD',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:02:33+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.021000s][吞吐率：47.62req/s] [内存消耗：2,683.20kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '105293',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://kefu.test.com',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryAsy4scdFG1SGsspY',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:02:33+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.027000s][吞吐率：37.04req/s] [内存消耗：2,669.31kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'static',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'chat' => 'image20171108',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:02:50+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.027000s][吞吐率：37.04req/s] [内存消耗：2,669.35kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'static',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'chat' => 'image20171108',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:03:07+08:00 ] 127.0.0.1 127.0.0.1 GET //static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com//static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.019000s][吞吐率：52.63req/s] [内存消耗：1,131.13kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'chat',
+    2 => 'image20171108',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:03:12+08:00 ] 127.0.0.1 127.0.0.1 GET /static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.026000s][吞吐率：38.46req/s] [内存消耗：1,131.13kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'chat',
+    2 => 'image20171108',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:03:28+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：2,634.94kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:03:29+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510124608927
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510124608927 [运行时间：0.627000s][吞吐率：1.59req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510124608927',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.085000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.095000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.163000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.071000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.056000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.063000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.063000s ]
+---------------------------------------------------------------
+[ 2017-11-08T15:03:31+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：2,669.31kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'static',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'chat' => 'image20171108',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:03:35+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：2,683.20kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '105293',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://kefu.test.com',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryrmyAswg08CraVQat',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:04:17+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.028000s][吞吐率：35.71req/s] [内存消耗：2,683.20kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'content-length' => '190311',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://kefu.test.com',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryjTH0Q5WAZKEoEaCk',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:05:24+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.025000s][吞吐率：40.00req/s] [内存消耗：2,813.52kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:05:25+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510124724605
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510124724605 [运行时间：0.731000s][吞吐率：1.37req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510124724605',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.199000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.099000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.062000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.072000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.073000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.057000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.139000s ]
+---------------------------------------------------------------
+[ 2017-11-08T15:05:26+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.029000s][吞吐率：34.48req/s] [内存消耗：2,669.31kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'static',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'chat' => 'image20171108',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:05:31+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.026000s][吞吐率：38.46req/s] [内存消耗：2,633.30kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:05:32+08:00 ] 127.0.0.1 127.0.0.1 GET /static/js/jquery.min.map
+[ info ] kefu.test.com/static/js/jquery.min.map [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：1,130.31kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'jquery.min.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:05:32+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=2&_=1510124731816
+[ info ] kefu.test.com/api/friends/lists?uid=2&_=1510124731816 [运行时间：0.620000s][吞吐率：1.61req/s] [内存消耗：2,738.41kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '2',
+  '_' => '1510124731816',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.073000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.108000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 2 LIMIT 1 [ RunTime:0.070000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.072000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 2 [ RunTime:0.072000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.056000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '2' [ RunTime:0.142000s ]
+---------------------------------------------------------------
+[ 2017-11-08T15:05:42+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.027000s][吞吐率：37.04req/s] [内存消耗：2,682.85kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'multipart/form-data; boundary=---------------------------136191504010906',
+  'content-length' => '492159',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:06:25+08:00 ] 127.0.0.1 127.0.0.1 POST /api/msg/put
+[ info ] kefu.test.com/api/msg/put [运行时间：0.028000s][吞吐率：35.71req/s] [内存消耗：2,682.84kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'put',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'content-type' => 'multipart/form-data; boundary=---------------------------6203709824655',
+  'content-length' => '376177',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->put[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T15:16:11+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.043000s][吞吐率：23.26req/s] [内存消耗：2,671.92kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->client[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\api\controller\swoole_client' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:17]
+---------------------------------------------------------------
+[ 2017-11-08T15:19:30+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.016000s][吞吐率：62.50req/s] [内存消耗：1,220.73kb] [文件加载：32]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]The command defined in "app\api\controller\Msg" cannot have an empty name.[F:\code\thinkSwoole\thinkphp\library\think\console\Command.php:59]
+---------------------------------------------------------------
+[ 2017-11-08T15:20:46+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.022000s][吞吐率：45.45req/s] [内存消耗：1,152.48kb] [文件加载：32]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\api\controller\Command' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:7]
+---------------------------------------------------------------
+[ 2017-11-08T15:20:54+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.037000s][吞吐率：27.03req/s] [内存消耗：2,672.31kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->client[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\api\controller\swoole_client' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:17]
+---------------------------------------------------------------
+[ 2017-11-08T15:27:58+08:00 ] 127.0.0.1 127.0.0.1 GET /api/client/connect
+[ info ] kefu.test.com/api/client/connect [运行时间：0.033000s][吞吐率：30.30req/s] [内存消耗：2,667.32kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'client',
+    2 => 'connect',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Client->connect[ F:\code\thinkSwoole\application\api\controller\Client.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\api\controller\socket_create()[F:\code\thinkSwoole\application\api\controller\Client.php:23]
+---------------------------------------------------------------
+[ 2017-11-08T15:33:08+08:00 ] 127.0.0.1 127.0.0.1 GET /api/client/connect
+[ info ] kefu.test.com/api/client/connect [运行时间：0.038000s][吞吐率：26.32req/s] [内存消耗：2,667.71kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'client',
+    2 => 'connect',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Client->connect[ F:\code\thinkSwoole\application\api\controller\Client.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function app\api\controller\socket_create()[F:\code\thinkSwoole\application\api\controller\Client.php:23]
+---------------------------------------------------------------
+[ 2017-11-08T15:36:16+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.035000s][吞吐率：28.57req/s] [内存消耗：2,672.31kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->client[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\api\controller\swoole_client' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:17]
+---------------------------------------------------------------
+[ 2017-11-08T15:48:52+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.034000s][吞吐率：29.41req/s] [内存消耗：2,672.31kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->client[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\api\controller\swoole_client' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:17]
+---------------------------------------------------------------
+[ 2017-11-08T15:48:53+08:00 ] 127.0.0.1 127.0.0.1 GET /api/msg/client
+[ info ] kefu.test.com/api/msg/client [运行时间：0.042000s][吞吐率：23.81req/s] [内存消耗：2,672.31kb] [文件加载：46]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'msg',
+    2 => 'client',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Msg->client[ F:\code\thinkSwoole\application\api\controller\Msg.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\api\controller\swoole_client' not found[F:\code\thinkSwoole\application\api\controller\Msg.php:17]
+---------------------------------------------------------------
+[ 2017-11-08T16:06:53+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.040000s][吞吐率：25.00req/s] [内存消耗：2,634.94kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T16:06:54+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510128413801
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510128413801 [运行时间：0.683000s][吞吐率：1.46req/s] [内存消耗：2,738.73kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510128413801',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.080000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.102000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.142000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.132000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.064000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.065000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.064000s ]
+---------------------------------------------------------------
+[ 2017-11-08T16:06:56+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png
+[ info ] kefu.test.com/chat/msg/static/chat/image20171108/9de24b6e9a3fb5ae146fbdea57835170.png [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：2,669.31kb] [文件加载：47]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'static',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+)
+[ info ] [ PARAM ] array (
+  'chat' => 'image20171108',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T16:06:59+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：2,633.30kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T16:06:59+08:00 ] 127.0.0.1 127.0.0.1 GET /static/js/jquery.min.map
+[ info ] kefu.test.com/static/js/jquery.min.map [运行时间：0.012000s][吞吐率：83.33req/s] [内存消耗：1,130.31kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'jquery.min.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T16:07:00+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=2&_=1510128419721
+[ info ] kefu.test.com/api/friends/lists?uid=2&_=1510128419721 [运行时间：0.667000s][吞吐率：1.50req/s] [内存消耗：2,738.41kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '2',
+  '_' => '1510128419721',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.076000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.095000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 2 LIMIT 1 [ RunTime:0.134000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.063000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 2 [ RunTime:0.116000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.078000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '2' [ RunTime:0.072000s ]
+---------------------------------------------------------------
+[ 2017-11-08T17:21:30+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.029000s][吞吐率：34.48req/s] [内存消耗：2,633.30kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T17:21:30+08:00 ] 127.0.0.1 127.0.0.1 GET /static/js/jquery.min.map
+[ info ] kefu.test.com/static/js/jquery.min.map [运行时间：0.013000s][吞吐率：76.92req/s] [内存消耗：1,130.31kb] [文件加载：30]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'jquery.min.map',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-08T17:21:31+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=2&_=1510132890169
+[ info ] kefu.test.com/api/friends/lists?uid=2&_=1510132890169 [运行时间：0.688000s][吞吐率：1.45req/s] [内存消耗：2,738.41kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'cookie' => 'PHPSESSID=7iq0rmvn9c1pef65us8u21sd54',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '2',
+  '_' => '1510132890169',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.104000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.096000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 2 LIMIT 1 [ RunTime:0.130000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.108000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 2 [ RunTime:0.086000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.073000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '2' [ RunTime:0.064000s ]

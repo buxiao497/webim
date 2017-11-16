@@ -1,0 +1,78 @@
+---------------------------------------------------------------
+[ 2017-11-14T10:04:04+08:00 ] 127.0.0.1 127.0.0.1 GET /chat/msg/lists
+[ info ] kefu.test.com/chat/msg/lists [运行时间：0.067000s][吞吐率：14.93req/s] [内存消耗：2,635.74kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'chat',
+    1 => 'msg',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+  'proxy-connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'x-lantern-version' => '4.4.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\chat\controller\Msg->lists[ F:\code\thinkSwoole\application\chat\controller\Msg.php ]
+[ info ] [ VIEW ] F:\code\thinkSwoole\public/../application/chat\view\index.html [ array (
+  0 => 'id',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-14T10:04:04+08:00 ] 127.0.0.1 127.0.0.1 GET /api/friends/lists?uid=1&_=1510625044088
+[ info ] kefu.test.com/api/friends/lists?uid=1&_=1510625044088 [运行时间：0.234000s][吞吐率：4.27req/s] [内存消耗：2,738.82kb] [文件加载：45]
+[ info ] [ LANG ] F:\code\thinkSwoole\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'friends',
+    2 => 'lists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'kefu.test.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=1040552960; pgv_si=s4270891008; PHPSESSID=hadubfu8alj49h0a418djcbha5',
+  'proxy-connection' => 'keep-alive',
+  'referer' => 'http://kefu.test.com/chat/msg/lists',
+  'x-lantern-version' => '4.4.0',
+  'x-requested-with' => 'XMLHttpRequest',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '1',
+  '_' => '1510625044088',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Friends->lists[ F:\code\thinkSwoole\application\api\controller\Friends.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032000s ] mysql:host=119.29.208.229;port=3306;dbname=kefu;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.023000s ]
+[ sql ] [ SQL ] SELECT uid as id,`username`,`account`,`avatar`,`sex`,`age`,`status`,`sign`,`addtime` FROM `users` WHERE  `uid` = 1 LIMIT 1 [ RunTime:0.020000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `group` [ RunTime:0.029000s ]
+[ sql ] [ SQL ] SELECT * FROM `group` WHERE  `create_uid` = 1 [ RunTime:0.037000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `friends` [ RunTime:0.027000s ]
+[ sql ] [ SQL ] SELECT `u`.`username`,`u`.`account`,`u`.`avatar`,`u`.`sex`,`u`.`age`,`f`.`group_id`,`f`.`uid`,f.fid as id FROM `friends` `f` INNER JOIN `users` `u` ON `f`.`fid`=`u`.`uid` WHERE  `f`.`uid` = '1' [ RunTime:0.036000s ]

@@ -1,0 +1,4736 @@
+---------------------------------------------------------------
+[ 2017-11-05T23:07:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.662293s][吞吐率：1.51req/s] [内存消耗：1,127.47kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:08:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.282673s][吞吐率：3.54req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:08:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.281479s][吞吐率：3.55req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:08:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.288705s][吞吐率：3.46req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:09:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.244282s][吞吐率：4.09req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:09:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.247785s][吞吐率：4.04req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:09:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.243368s][吞吐率：4.11req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:10:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.117502s][吞吐率：8.51req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:10:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.203574s][吞吐率：4.91req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:10:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.200480s][吞吐率：4.99req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:11:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.379156s][吞吐率：2.64req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:11:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.383915s][吞吐率：2.60req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:11:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.388730s][吞吐率：2.57req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:12:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.238774s][吞吐率：4.19req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:12:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.243082s][吞吐率：4.11req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:12:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.247158s][吞吐率：4.05req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:13:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.262059s][吞吐率：3.82req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:13:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.268620s][吞吐率：3.72req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:13:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.267216s][吞吐率：3.74req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:14:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.325765s][吞吐率：3.07req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:14:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.324323s][吞吐率：3.08req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:14:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.331679s][吞吐率：3.01req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:15:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.233888s][吞吐率：4.28req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:15:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.233476s][吞吐率：4.28req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:15:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.239342s][吞吐率：4.18req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:16:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.227191s][吞吐率：4.40req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:16:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.231114s][吞吐率：4.33req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:16:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.294895s][吞吐率：3.39req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:17:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.228547s][吞吐率：4.38req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:17:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.236910s][吞吐率：4.22req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:17:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.303491s][吞吐率：3.29req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:18:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.287840s][吞吐率：3.47req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:18:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.412410s][吞吐率：2.42req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:18:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.416020s][吞吐率：2.40req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:19:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.136525s][吞吐率：7.32req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:19:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.222989s][吞吐率：4.48req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:19:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.226531s][吞吐率：4.41req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:20:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.208588s][吞吐率：4.79req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:20:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.206778s][吞吐率：4.84req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:20:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.289190s][吞吐率：3.46req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:21:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.306472s][吞吐率：3.26req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:21:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.314243s][吞吐率：3.18req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:21:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.389644s][吞吐率：2.57req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:22:02+08:00 ] 10.135.188.198 164.132.91.1 GET /
+[ info ] 119.29.208.229/ [运行时间：0.270820s][吞吐率：3.69req/s] [内存消耗：1,124.95kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '119.29.208.229',
+  'connection' => 'close',
+  'user-agent' => 'Chrome/41.0.2224.3 Safari/537.36',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:22:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.187643s][吞吐率：5.33req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:22:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.194176s][吞吐率：5.15req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:22:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.192751s][吞吐率：5.19req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:23:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.118127s][吞吐率：8.47req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:23:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.115984s][吞吐率：8.62req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:23:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.200041s][吞吐率：5.00req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:24:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.205354s][吞吐率：4.87req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:24:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.203583s][吞吐率：4.91req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:24:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.294098s][吞吐率：3.40req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:25:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.249929s][吞吐率：4.00req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:25:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.247790s][吞吐率：4.04req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:25:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.243700s][吞吐率：4.10req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:26:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.241975s][吞吐率：4.13req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:26:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.246115s][吞吐率：4.06req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:26:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.249498s][吞吐率：4.01req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:27:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.244461s][吞吐率：4.09req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:27:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.239014s][吞吐率：4.18req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:27:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.243706s][吞吐率：4.10req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:28:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.201261s][吞吐率：4.97req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:28:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.205796s][吞吐率：4.86req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:28:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.282867s][吞吐率：3.54req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:29:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.208570s][吞吐率：4.79req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:29:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.212129s][吞吐率：4.71req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:29:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.208793s][吞吐率：4.79req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:30:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.241336s][吞吐率：4.14req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:30:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.333832s][吞吐率：3.00req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:30:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.332032s][吞吐率：3.01req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:31:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.301833s][吞吐率：3.31req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:31:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.298707s][吞吐率：3.35req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:31:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.302854s][吞吐率：3.30req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:32:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.147145s][吞吐率：6.80req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:32:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.150159s][吞吐率：6.66req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:32:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.231268s][吞吐率：4.32req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:33:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.302436s][吞吐率：3.31req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:33:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.302145s][吞吐率：3.31req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:33:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.308167s][吞吐率：3.24req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:34:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.292497s][吞吐率：3.42req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:34:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.296804s][吞吐率：3.37req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:34:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.295115s][吞吐率：3.39req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:35:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.218948s][吞吐率：4.57req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:35:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.228220s][吞吐率：4.38req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:35:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.226787s][吞吐率：4.41req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:36:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.238892s][吞吐率：4.19req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:36:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.328431s][吞吐率：3.04req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:36:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.334260s][吞吐率：2.99req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:37:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.155982s][吞吐率：6.41req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:37:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.163257s][吞吐率：6.13req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:37:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.161013s][吞吐率：6.21req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:38:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.321285s][吞吐率：3.11req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:38:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.327166s][吞吐率：3.06req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:38:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.326021s][吞吐率：3.07req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:39:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.247558s][吞吐率：4.04req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:39:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.246369s][吞吐率：4.06req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:39:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.245089s][吞吐率：4.08req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:40:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.231973s][吞吐率：4.31req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:40:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.232813s][吞吐率：4.30req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:40:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.316830s][吞吐率：3.16req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:41:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.233028s][吞吐率：4.29req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:41:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.232103s][吞吐率：4.31req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:41:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.237517s][吞吐率：4.21req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:42:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.195112s][吞吐率：5.13req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:42:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.281711s][吞吐率：3.55req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:42:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.288033s][吞吐率：3.47req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:43:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.280547s][吞吐率：3.56req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:43:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.285272s][吞吐率：3.51req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:43:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.368074s][吞吐率：2.72req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:44:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.241834s][吞吐率：4.14req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:44:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.240564s][吞吐率：4.16req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:44:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.247948s][吞吐率：4.03req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:45:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.332275s][吞吐率：3.01req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:45:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.337612s][吞吐率：2.96req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:45:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.341609s][吞吐率：2.93req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:46:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.267876s][吞吐率：3.73req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:46:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.273543s][吞吐率：3.66req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:46:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.358149s][吞吐率：2.79req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:47:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.194987s][吞吐率：5.13req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:47:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.192859s][吞吐率：5.19req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:47:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.191067s][吞吐率：5.23req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:48:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.289407s][吞吐率：3.46req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:48:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.288355s][吞吐率：3.47req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:48:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.286936s][吞吐率：3.49req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:49:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.214015s][吞吐率：4.67req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:49:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.218665s][吞吐率：4.57req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:49:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.223805s][吞吐率：4.47req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:50:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.209408s][吞吐率：4.78req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:50:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.311206s][吞吐率：3.21req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:50:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.306999s][吞吐率：3.26req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:51:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.195474s][吞吐率：5.12req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:51:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.199935s][吞吐率：5.00req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:51:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.203639s][吞吐率：4.91req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:52:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.199652s][吞吐率：5.01req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:52:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.206169s][吞吐率：4.85req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:52:53+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.205222s][吞吐率：4.87req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:53:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.237656s][吞吐率：4.21req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:53:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.237541s][吞吐率：4.21req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:53:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.236455s][吞吐率：4.23req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:54:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.230775s][吞吐率：4.33req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:54:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.228926s][吞吐率：4.37req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:54:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.236577s][吞吐率：4.23req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:55:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.255054s][吞吐率：3.92req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:55:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.254349s][吞吐率：3.93req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:55:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.262024s][吞吐率：3.82req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:56:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.240988s][吞吐率：4.15req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:56:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.248821s][吞吐率：4.02req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:56:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.310730s][吞吐率：3.22req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:57:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.320612s][吞吐率：3.12req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:57:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.323788s][吞吐率：3.09req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:57:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.327386s][吞吐率：3.05req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:58:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.205916s][吞吐率：4.86req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:58:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.200823s][吞吐率：4.98req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:58:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.204927s][吞吐率：4.88req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:59:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.209016s][吞吐率：4.78req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:59:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.207477s][吞吐率：4.82req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-11-05T23:59:52+08:00 ] 10.135.188.198 123.151.43.110 GET /
+[ info ] 119.29.208.229/ [运行时间：0.205767s][吞吐率：4.86req/s] [内存消耗：1,127.16kb] [文件加载：35]
+[ info ] [ LANG ] /data/wwwroot/thinkSwoole/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36',
+  'host' => '119.29.208.229',
+  'cookie' => 'zsd_http_boce',
+  'connection' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/thinkSwoole/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /data/wwwroot/thinkSwoole/public/../application/index/view/websocket_test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
